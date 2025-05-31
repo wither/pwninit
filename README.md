@@ -2,6 +2,8 @@
 
 A simple Python tool that automates CTF challenge setup.
 
+!(screenshot.png)[screenshot.png]
+
 ## Features
 
 - Automatically creates a folder and subfolders for each challenge to organise your hacking.
